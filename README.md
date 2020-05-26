@@ -1,3 +1,8 @@
+# About Me
+My name is David Yang, and I'm a graduating senior from The College Preparatory School in Oakland, CA. 
+In the fall, I will be attending Swarthmore College (hopefully in person)! 
+As of now, I am planning to pursue Math and Computer Science, and am also interested in Economics as well.
+This website was made for personal experimentation purposes, please contact me if you have any questions at all.
 
 ## Welcome to GitHub Pages
 
@@ -29,10 +34,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dyang5/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
